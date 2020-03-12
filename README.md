@@ -1,0 +1,2 @@
+# CariTakip
+indis staj projesi
